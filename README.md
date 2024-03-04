@@ -6,7 +6,7 @@
 Shown here is a database design for an iGaming company using PostgreSQL showcasing fields data types, primary keys, and foreign keys
 
 
-Queries: 
+
 ➭ List all users having 3 deposits or more
 
 ➭ List all users having only 1 withdrawal 
