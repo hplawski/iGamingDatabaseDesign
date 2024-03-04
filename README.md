@@ -7,13 +7,13 @@ Shown here is a database design for an iGaming company using PostgreSQL showcasi
 
 
 
-➭ List all users having 3 deposits or more
+➭ Listed all users having 3 deposits or more
 
-➭ List all users having only 1 withdrawal 
+➭ Listed all users having only 1 withdrawal 
 
-➭ List 3 users that have made the highest deposits
+➭ Listed 3 users that have made the highest deposits
 
-➭ List all deposits for users. Display UserId, UserName, DepositDate, DepositAmount 
+➭ Listed all deposits for users. Displayed UserId, UserName, DepositDate, DepositAmount 
 
-➭ Calculate balances of all users
+➭ Calculated balances of all users
 
