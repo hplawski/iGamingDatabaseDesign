@@ -1,4 +1,3 @@
-# iGamingDatabaseDesign
 
 <div id="header" align="center">
     <img src="https://i.gifer.com/7aKz.gif" width="1000" height="270"/>
